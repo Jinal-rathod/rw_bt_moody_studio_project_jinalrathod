@@ -1,0 +1,31 @@
+main {
+    background-color: #DBD0CC;
+}
+
+.badge {
+    height: 15px;
+    width: 15px;
+    text-align: center;
+    background-color: #F2994A;
+}
+
+.hero-text {
+    max-width: 43%;
+}
+
+h1 {
+    color: #A86A3D;
+    font-size: 50px;
+}
+
+.p-text {
+    height: 600px;
+    width: 100%;
+    background-image: url(../asset/images/image-4.png);
+}
+
+.p-text2 {
+    height: 600px;
+    width: 100%;
+    background-image: url(../asset/images/image-11.png);
+}
