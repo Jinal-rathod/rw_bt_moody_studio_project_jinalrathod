@@ -18,14 +18,51 @@ h1 {
     font-size: 50px;
 }
 
+.my-10 {
+    margin: 100px 0px;
+}
+
 .p-text {
     height: 600px;
     width: 100%;
     background-image: url(../asset/images/image-4.png);
+    /* backdrop-filter: brightness(0.8); */
 }
 
 .p-text2 {
-    height: 600px;
+    height: 550px;
     width: 100%;
     background-image: url(../asset/images/image-11.png);
+    /* backdrop-filter: brightness(0.8); */
+}
+
+.sub-offer {
+    height: 350px;
+    width: 530px;
+    margin-left: -550px;
+    margin-top: 50px;
+    background-color: #ffffffd1;
+}
+
+.offer-text {
+    color: #7B5136;
+}
+
+.footer {
+    background-color: #323334;
+}
+
+@media (max-width:480px) {
+    .sub-offer {
+        height: auto;
+        width: auto;
+        margin-left: -120px;
+        margin-top: 0px;
+        align-items: center;
+    }
+
+    .sub-offer div a {
+        font-size: 12px;
+    }
+
 }
