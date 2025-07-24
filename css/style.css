@@ -22,6 +22,14 @@ main {
     margin: 100px 0px;
 }
 
+.mt-10 {
+    margin-top: 100px;
+}
+
+.px-7 {
+    padding: 0px 70px;
+}
+
 .p-text {
     height: 600px;
     width: 100%;
